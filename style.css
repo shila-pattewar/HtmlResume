@@ -1,0 +1,23 @@
+.nameContainer{   
+    margin-bottom: 20px;
+    text-align: left;
+}
+
+h1 {
+    
+}
+.imageContainer{
+    text-align: right;  
+    display: flex;
+
+}
+
+img{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 5px solid yellow;
+    text-align: right;
+}
+
+
